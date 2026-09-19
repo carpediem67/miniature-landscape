@@ -6,7 +6,7 @@
 
 一个用于生成和编辑微缩景观图的 Agent Skill。把城市、山川与地标变成有实体模型质感的小世界：细密树冠、微型建筑、柔和水面和纸上道路自然相接，像在近距离拍摄一件手作景观。
 
-![里约热内卢 · Rio de Janeiro](examples/images/rio-de-janeiro.png)
+![悉尼 · Sydney](examples/images/sydney.png)
 
 ## 精选案例
 
@@ -89,4 +89,3 @@ Skill 的执行说明保持简洁，包含用户要求优先、参考图用途�
 本仓库的 Skill、文档、提示词和随附示例按 [MIT License](LICENSE) 发布。使用、修改及再分发时保留许可证与版权声明。图像由 AI 生成；第三方商标及其他权利不因本仓库的许可而转让。
 
 由 [carpediem67](https://github.com/carpediem67) 创作与维护。独立社区项目，非 OpenAI 官方产品。
-

@@ -6,7 +6,7 @@
 
 An Agent Skill for generating and editing miniature landscape images. Turn cities, mountains and landmarks into tactile little worlds: finely textured trees, miniature buildings, gentle water and printed roads connect naturally, as if photographed up close as a handcrafted model.
 
-![Rio de Janeiro](examples/images/rio-de-janeiro.png)
+![Sydney](examples/images/sydney.png)
 
 ## Selected examples
 
@@ -89,4 +89,3 @@ These are artistic miniatures with compressed distances and simplified architect
 The skill, documentation, prompts and bundled examples are released under the [MIT License](LICENSE). Retain the license and copyright notice when using, modifying or redistributing the material. Images are AI-generated; this license does not transfer third-party trademarks or other rights.
 
 Created and maintained by [carpediem67](https://github.com/carpediem67). An independent community project, not an official OpenAI product.
-
