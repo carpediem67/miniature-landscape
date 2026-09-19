@@ -1,0 +1,4 @@
+interface:
+  display_name: "方寸山河 · 微缩景观"
+  short_description: "将城市、山川与地标化为地图上的手作微缩模型，以材质、尺度和微距景深突出景观质感"
+  default_prompt: "用 $miniature-landscape 为杭州·中国生成一张地图上的微缩景观。"

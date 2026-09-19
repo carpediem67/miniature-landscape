@@ -1,0 +1,104 @@
+{
+  "license": "MIT",
+  "examples": [
+    {
+      "place": "altay",
+      "image": "images/altay.png",
+      "prompt": "prompts/altay.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "39f74e20b9ac9139572e8e574b15dbfe1b27ccb32f3ec007f41f13c8e9635112",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "san-francisco",
+      "image": "images/san-francisco.png",
+      "prompt": "prompts/san-francisco.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "f2287e2f3da0103b817ee67ee758ee43d61d8d73c228aa843c376544079593b3",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "sydney",
+      "image": "images/sydney.png",
+      "prompt": "prompts/sydney.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "abf73868e8c26cc843e17c7589f9e8ece1ac58b25a70856a87629a2618ac623e",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "rio-de-janeiro",
+      "image": "images/rio-de-janeiro.png",
+      "prompt": "prompts/rio-de-janeiro.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "463a1114a3421f8a5032a9631202f26ab9f24da28c44bc48fd452cb49512b766",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "shanghai",
+      "image": "images/shanghai.png",
+      "prompt": "prompts/shanghai.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bee573948aefd5671e05f1f22441f5d88e1411adcab23a04023f8b7d7b6e7156",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "paris",
+      "image": "images/paris.png",
+      "prompt": "prompts/paris.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "65137358c8ab026b91d57a547bf67ef7857137c37acc0835abbce6226dd59415",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "london",
+      "image": "images/london.png",
+      "prompt": "prompts/london.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5979c04b74b51fc8e0fd3533e70d8d33b178e274537f12a1b57a8f7bd04845bc",
+      "style_reference": "reference/new-york.png",
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "hangzhou",
+      "image": "images/hangzhou.png",
+      "prompt": "prompts/hangzhou.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ea9f6a95338835334e9362557d6bbd7a2da92367bed2402fb881958e3bb881cc",
+      "style_reference": null,
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    },
+    {
+      "place": "shenzhen",
+      "image": "images/shenzhen.png",
+      "prompt": "prompts/shenzhen.txt",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "18135841af801b0178a67e0bef83a82785f54d0f5475f5184e896b38fd932f6d",
+      "style_reference": null,
+      "tool": "built-in image_gen",
+      "creator_selected": true
+    }
+  ]
+}
