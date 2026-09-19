@@ -1,6 +1,6 @@
 # 案例与提示词 · Examples & prompts
 
-[中文说明](../README.md) · [English guide](../README.en.md)
+[English guide](../README.md) · [中文说明](../README.zh-CN.md)
 
 ## 如何使用 · How to use
 
