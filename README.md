@@ -1,10 +1,16 @@
-# Miniature Landscape · 方寸山河微缩景观
+<h1 align="center">Miniature Landscape · 微缩景观</h1>
 
-**Let a city rise from a map.**
+<h3 align="center">Let a city rise from a map.</h3>
 
-[简体中文](README.zh-CN.md) · [MIT License](LICENSE) · [Examples & prompts](examples/README.md)
+<p align="center">方寸山河 is an Agent Skill that turns cities, mountains and landmarks into tactile miniature worlds rising from vintage maps.</p>
 
-An Agent Skill for generating and editing miniature landscape images. Turn cities, mountains and landmarks into tactile little worlds: finely textured trees, miniature buildings, gentle water and printed roads connect naturally, as if photographed up close as a handcrafted model.
+<p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-35624f" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Agent-Skill-526b78" alt="Agent Skill">
+  <img src="https://img.shields.io/badge/Tested_in-Codex-29363b" alt="Tested in Codex">
+</p>
 
 ![Sydney](examples/images/sydney.png)
 

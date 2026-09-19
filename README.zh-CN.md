@@ -1,10 +1,16 @@
-# 方寸山河 · 微缩景观 / Miniature Landscape
+<h1 align="center">方寸山河 · 微缩景观</h1>
 
-**让一座城，从地图里长出来。**
+<h3 align="center">让一座城，从地图里长出来。</h3>
 
-[English](README.md) · [MIT License](LICENSE) · [案例与提示词](examples/README.md)
+<p align="center">一个生成和编辑微缩景观图的 Agent Skill，让城市、山川与地标从复古地图中自然浮起，呈现精致手作模型的质感。</p>
 
-一个用于生成和编辑微缩景观图的 Agent Skill。把城市、山川与地标变成有实体模型质感的小世界：细密树冠、微型建筑、柔和水面和纸上道路自然相接，像在近距离拍摄一件手作景观。
+<p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-35624f" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Agent-Skill-526b78" alt="Agent Skill">
+  <img src="https://img.shields.io/badge/Tested_in-Codex-29363b" alt="Tested in Codex">
+</p>
 
 ![悉尼 · Sydney](examples/images/sydney.png)
 
